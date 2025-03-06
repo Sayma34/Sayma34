@@ -1,6 +1,6 @@
 ### Hi there 👋, It's SAYMA
 #### I am an ML and Cloud enthusiast.
-![I am an ML and Cloud enthusiast.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am an ML and Cloud enthusiast.]
 
 I am a graduate student having passion in ML and cloud. I have good command over python, Constant learner.
 
