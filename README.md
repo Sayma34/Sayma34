@@ -1,6 +1,6 @@
-### Hi there 👋, It's SAYMA
+### Hi there 👋, It's S-A-Y-M-A
 #### I am an ML and Cloud enthusiast.
-![I am an ML and Cloud enthusiast.]
+![I am an ML and Cloud enthusiast.]("D:\bracStoryTelling\IMG_20250307_005430_903.jpg")
 
 I am a graduate student having passion in ML and cloud. I have good command over python, Constant learner.
 
@@ -20,8 +20,6 @@ Skills: python
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sayma34&show_icons=true&count_private=true)  
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/sayma34/contributions?format=svg&private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/sayma34)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=sayma34)  
 
