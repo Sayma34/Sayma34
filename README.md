@@ -6,7 +6,7 @@ I am a graduate student having passion in ML and cloud. I have good command over
 
 Skills: python
 
-- 🔭 I’m currently working on 2 research projects and strengthening my skillset to conquer industry as well, 
+- 🔭 , 
 - 🌱 I’m currently learning ML 
 - 😄 Pronouns: She/Her 
 
